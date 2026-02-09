@@ -24,4 +24,5 @@ istio-microservices-platform/
  │    ├── destinationrule.yaml
  ├── monitoring/
  ├── load-tests/
- └── README.md
+ └── README.md (architecture diagram + testing proof)
+
